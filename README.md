@@ -5,7 +5,7 @@
 
 <br>
 
-<img height=550 width=300 src="https://github.com/usman18/Twiiter-UI/blob/master/Screenshots/Twitter_UI.JPG"
+<img height=550 width=300 hspace=200 src="https://github.com/usman18/Twiiter-UI/blob/master/Screenshots/Twitter_UI.JPG"
 />
 ## Contributions
 Contributions are always welcome. Please fork this repository and contribute using pull requests. The pull requests will be thoroughly assessed and if found significant will be accepted.
